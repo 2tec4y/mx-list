@@ -1,0 +1,124 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="Canal 44" group-title="Noticias",Canal 44.2 op 1
+https://stream-04.sv4.dailymotion.com/sec(B_XzEw6KFrYpQxnvKcvKVAWHeSeh9cJsa64lQNS8oVDhkI4NtQ84TOlo2KEfK40u)/dm/3/x6km0ku/d/live-0.m3u8
+
+#EXTINF:-1 tvg-id="Canal 44" group-title="Noticias",Canal 44.2 op 2
+https://stream-04.sv4.dailymotion.com/sec(B_XzEw6KFrYpQxnvKcvKVAWHeSeh9cJsa64lQNS8oVDhkI4NtQ84TOlo2KEfK40u)/dm/3/x6km0ku/d/live-1.m3u8
+
+#EXTINF:-1 tvg-id="Canal 44.1" group-title="Noticias",Canal 44.1 op1
+https://stream-03.sv4.dailymotion.com/sec(z78NI1m0neFnRd2EIIVngGrHjutzb99oTb_NCb-PdvlHHX_nQL31M_TLsAR8JGOA)/dm/3/x3m1xfy/d/live-1.m3u8
+
+#EXTINF:-1 tvg-id="Canal 44.1" group-title="Noticias",Canal 44.1 op2
+https://stream-03.sv4.dailymotion.com/sec(z78NI1m0neFnRd2EIIVngGrHjutzb99oTb_NCb-PdvlHHX_nQL31M_TLsAR8JGOA)/dm/3/x3m1xfy/d/live-0.m3u8
+
+#EXTINF:-1 tvg-id="QuieroTV.mx" group-title="Noticias",Quiero TV op1
+https://stream-04.sv4.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOtypsL_LgM7s5QycHMpgyiC1z-PdxDQXR3KtTHp701B8)/dm/3/x8452uw/s/live-0.m3u8#cell=lsv4
+
+#EXTINF:-1 tvg-id="QuieroTV.mx" group-title="Noticias",Quiero TV op2
+https://www.dailymotion.com/embed/video/x8452uw?autoplay=1
+#EXTINF:-1 tvg-id="QuieroTV.mx" group-title="Noticias",Quiero TV op3
+https://www.dailymotion.com/cdn/live/video/x8452uw.m3u8?sec=3oQ5c4gq8LjFYNYFmKSck1QLuXEX6kZRdSZlsgqgFTdpatjwJR2EvGyR0voSn5akDNJd7YCaf-RoGIssvYEpiw&dmTs=264496&dmV1st=129FC4929C2EDC6F9AF267385AED53CE
+#EXTINF:-1 tvg-id="QuieroTV.mx" group-title="Noticias",Quiero TV op4
+https://dmxleo.dailymotion.com/cdn/manifest/video/x8452uw.m3u8
+
+#EXTINF:-1 tvg-id="México Travel" group-title="Viajes",México Travel
+https://www.dailymotion.com/embed/video/x7v76vf?autoplay=1
+
+#EXTINF:-1 tvg-id="MVS TV" group-title="Noticias",MVS TV Dailymotion
+https://stream-02.sv4.dailymotion.com/sec(M6H1kElr_3TPI3uTZiYJqvV0alrjULK_0_ED9qXr12OX1bBgDzt1_gsu9D8QdFuC)/dm/3/x7urqme/d/live-3.m3u8
+
+#EXTINF:-1 tvg-id="N+ Monterrey" group-title="Noticias",N+ Monterrey Youtube 1
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1672015910/ei/xpuoY-_tKvqslu8P-eecwAg/ip/103.88.234.175/id/CEMPMtGZ9Yc.1/source/yt_live_broadcast/requiressl/yes/tx/24416439/txs/24416436%2C24416437%2C24416438%2C24416439%2C24416440%2C24416441%2C24416442/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/mx/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgWMllTqWaV0EEXdWj8ONy0fYCSky8TS2mN6hMiyKpNyQCICO3jnmLTJPPUAE1BOm_CllnKBH44v3o0QtgynaMMrdq/file/index.m3u8
+
+#EXTINF:-1 tvg-id="N+ Monterrey 2" group-title="Noticias",N+ Monterrey Youtube 2
+https://www.youtube.com/user/televisamtyoficial/live
+
+#EXTINF:-1 tvg-id="France 24" group-title="Noticias",France 24 op1
+https://www.youtube.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ/live
+
+#EXTINF:-1 tvg-id="France 24" group-title="Noticias",France 24 op2
+https://www.youtube.com/c/FRANCE24Español/live
+
+#EXTINF:-1 tvg-id="France 24" group-title="Noticias",France 24 op3
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANCE24Español/live
+
+#EXTINF:-1 tvg-id="France 24" group-title="Noticias",France 24 0p 4
+https://www.youtube.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ/live
+
+#EXTINF:-1 tvg-id="France 24" group-title="Noticias",France 24 op 5
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCUdOoVWuWmgo1wByzcsyKDQ/live
+
+#EXTINF:-1 tvg-id="ImagenTV.mx" group-title="Noticias",Imagen TV Youtube op1
+https://www.youtube.com/user/Cadena3Noticias/live
+
+#EXTINF:-1 tvg-id="UNOTV" group-title="Noticias",UNOTV Youtube op1
+https://www.youtube.com/channel/UC-bk3CDvTwt2TqPHykduhcQ/live
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Internacional",Euronews en Español op 1
+https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EuronewsSpanish.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="Internacional",Euronews en Español op 2
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/euronewses/live
+
+
+#EXTINF:-1 tvg-id="Foro.TV" tvg-logo="https://i.imgur.com/QPDku0W.png" group-title="Noticias", Foro N+
+https://channel02-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8
+
+#EXTINF:-1 tvg-id="N+ Media" group-title="Noticias",N+ Media
+https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index.m3u8
+
+#EXTINF:-1 tvg-id="N+ " group-title="Noticias",N+
+https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
+
+#EXTINF:-1 tvg-id="N+ Monterrey" group-title="Noticias",N+ Noticias Monterrey 1
+https://channel09-notusa.akamaized.net/hls/live/2094418/event01/index_4.m3u8
+
+#EXTINF:-1 tvg-id="N+ Monterrey" group-title="Noticias",N+ Noticias Monterrey 2
+https://channel09-notusa.akamaized.net/hls/live/2094418/event01/index.m3u8
+
+#EXTINF:-1 tvg-id="TeleSur" group-title="Noticias",TeleSur
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCbHFKMtqLYkIBRiPHJwxu_w/live
+
+#EXTINF:-1 tvg-id="ImagenMulticast.mx" group-title="Noticias",Imagen Multicast 
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UClqo4ZAAZ01HQdCTlovCgkA/live
+
+#EXTINF:-1 tvg-id="ImagenRadio.mx" group-title="Noticias",Imagen Radio (720p) [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCB0BUmdBOrH9mYU2ebs1eWA/live
+
+
+
+#EXTINF:-1 tvg-id="América TEVE" group-title="Noticias",América TEVE
+https://uni01rtmp.tulix.tv/americateve1/americateve1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal 22 Peiculas" group-title="Peliculas",Canal 22 Peiculas
+https://5fc584f3f19c9.streamlock.net/canal222/smil:canal222.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal 22" group-title="Noticias",Canal 22 Noticias
+https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal 22" group-title="Noticias",Canal 22 Noticias op2
+https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMjYvMjAyMiAyOjUwOjM1IEFNJmhhc2hfdmFsdWU9UzFjb3NOTkp2ckZvV0YzUUVqSHVadz09JnZhbGlkbWludXRlcz01JmlkPQ
+
+#EXTINF:-1 tvg-id="Chef Ramsy" group-title="Cocina",Chef Ramsy
+https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/6095ad97351eb0000754c1e6/1539795/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ay Carly" group-title="Comedia",ay Carly
+https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/620ff0a01f9e8700076c6f9d/997452/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telemundo Miami" group-title="Comedia",Telemundo Miami
+https://nbculocallive.akamaized.net/hls/live/2037498/miami/stream6/master_240.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
